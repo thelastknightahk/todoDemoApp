@@ -1,0 +1,207 @@
+{
+  "project_info": {
+    "project_number": "285709959137",
+    "firebase_url": "https://eleosgym-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "eleosgym",
+    "storage_bucket": "eleosgym.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285709959137:android:68b6c57bfa977cf7371ca0",
+        "android_client_info": {
+          "package_name": "com.example.chattingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "285709959137-u12fasn9bfl8giv7vqedrggatnbcvrg5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chattingapp",
+            "certificate_hash": "ae3cc3f5e53b105740d625d2ed5700731c895678"
+          }
+        },
+        {
+          "client_id": "285709959137-48aj4buqbgg2u7354kf1e5ir8kbveb8j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCn8ekCoKCu91VDQHIvXJQYEh3nLzWYfP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "285709959137-48aj4buqbgg2u7354kf1e5ir8kbveb8j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "285709959137-6qk7nl81coatc7pqee9vujfu540kbla8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.todoTest"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285709959137:android:5d413bad48862567371ca0",
+        "android_client_info": {
+          "package_name": "com.example.face_auth_two"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "285709959137-48aj4buqbgg2u7354kf1e5ir8kbveb8j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCn8ekCoKCu91VDQHIvXJQYEh3nLzWYfP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "285709959137-48aj4buqbgg2u7354kf1e5ir8kbveb8j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "285709959137-6qk7nl81coatc7pqee9vujfu540kbla8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.todoTest"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285709959137:android:02ea92dd5bb44d28371ca0",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase_ios"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "285709959137-48aj4buqbgg2u7354kf1e5ir8kbveb8j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCn8ekCoKCu91VDQHIvXJQYEh3nLzWYfP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "285709959137-48aj4buqbgg2u7354kf1e5ir8kbveb8j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "285709959137-6qk7nl81coatc7pqee9vujfu540kbla8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.todoTest"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285709959137:android:58aeb474de971b8f371ca0",
+        "android_client_info": {
+          "package_name": "com.example.todo_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "285709959137-48aj4buqbgg2u7354kf1e5ir8kbveb8j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCn8ekCoKCu91VDQHIvXJQYEh3nLzWYfP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "285709959137-48aj4buqbgg2u7354kf1e5ir8kbveb8j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "285709959137-6qk7nl81coatc7pqee9vujfu540kbla8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.todoTest"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285709959137:android:cd3ae7ea352d3b3c371ca0",
+        "android_client_info": {
+          "package_name": "in.ab.connectus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "285709959137-1o2ql9bld00bfhum6kc32ii05v6v9ne6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.ab.connectus",
+            "certificate_hash": "ae3cc3f5e53b105740d625d2ed5700731c895678"
+          }
+        },
+        {
+          "client_id": "285709959137-48aj4buqbgg2u7354kf1e5ir8kbveb8j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCn8ekCoKCu91VDQHIvXJQYEh3nLzWYfP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "285709959137-48aj4buqbgg2u7354kf1e5ir8kbveb8j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "285709959137-6qk7nl81coatc7pqee9vujfu540kbla8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.todoTest"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
